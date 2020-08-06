@@ -1,1 +1,1 @@
-I'm a 2<sup>nd</sup> year Masters student in Computer Science at the Georgia Institute of Technology. 
+I'm a 2<sup>nd</sup> year Master's student in Computer Science at the Georgia Institute of Technology. I completed my Bachelors in Technolgy (B.Tech) in Electronics and Communication engineering at Delhi Technological University, India in 2019. 
