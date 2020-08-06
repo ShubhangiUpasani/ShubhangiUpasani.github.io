@@ -11,6 +11,7 @@
   <h3><li>Genre-specifc Lyrics Generation</li></h3>
   Automated the process of generating lyrics specific to ten different genres from Million Songs dataset and developed machine learning models to predict their       popularity. Employed RNN model and different clustering techniques to achieve the objective. 
   <h3><li>Contextual Sentiment Analysis of Tweets</li></h3>
-  
+  Implemented SentiCircle approach for capturing contextual semantics along with a novel aggreagtion technique to predict sentiment orientation of tweets. Carried     out a comparitative analysis between different distance measures used to create SentiCirles.   
   <h3><li>Predicting Click Through Rate (CTR) of Online Advertisements</li></h3>
+  Employed a soft-clustering technique for determining CTR of advertisements, thereby enhancing quality of ad recommendations and user experience. 
  </ul>
