@@ -1,6 +1,6 @@
 <h1>Projects</h1>
 <ul>
-  <b><li>Facebook Habitat AI challenge</li></b>
+  <h3><li>Facebook Habitat AI challenge</li></h3>
   <li>Visual Question Answering</li> 
   <li>Visual Relationship Detection</li> 
   <li>Semantic Segmentation on Antarctic Landsat-8 Imagery</li>
