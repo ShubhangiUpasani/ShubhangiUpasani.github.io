@@ -1,17 +1,17 @@
 <h1>Projects</h1>
 <ul>
   <h3><li>Facebook Habitat AI challenge</li></h3>
-  Implemented imitation learning algorithm namely behavioral cloning for point goal navigation task in a photo-realistc, indoor environment. Used RNN-like             structures to predict optimal actions given the state of an embodied agent and compared perfomace with a reinforcement learning baseline (PPO).
+  Implemented imitation learning algorithm namely behavioral cloning for point goal navigation task in a photo-realistic, indoor environment. Used RNN-like             structures to predict optimal actions given the state of an embodied agent and compared performance with a reinforcement learning baseline (PPO).
   <h3><li>Visual Question Answering</li></h3>
-  Research and designed a VQA model that leverages both visual and textual cuues to answer questions about an image. Used a novel fusion-based model along with       parallel and alternate co-attention models on the VQA 2.0 dataset.
+  Research and designed a VQA model that leverages both visual and textual cues to answer questions about an image. Used a novel fusion-based model along with       parallel and alternate co-attention models on the VQA 2.0 dataset.
   <h3><li>Visual Relationship Detection</li></h3>
   Extracted visual relationships between objects in an image to get a sense of the overall scene semantics through few-shot learning approach and triplet loss.       Trained CNN models with bounding box masks for each positive and negative instance of a visual relationship along with glove embeddings for the relationship         predicate.  
   <h3><li>Semantic Segmentation on Antarctic Landsat-8 Imagery</li></h3>
   Extracted rock-outcrop through semantic segmentation of Landsat-8 satellite imagery using deep learning models to study the effects of global warming in             Antarctica. Carried out a comprehensive analysis of factors (sun elevation, cloud cover etc.) responsible for differentiation of ice from rock pixels and their     effects on the results obtained.
-  <h3><li>Genre-specifc Lyrics Generation</li></h3>
+  <h3><li>Genre-specific Lyrics Generation</li></h3>
   Automated the process of generating lyrics specific to ten different genres from Million Songs dataset and developed machine learning models to predict their       popularity. Employed RNN model and different clustering techniques to achieve the objective. 
   <h3><li>Contextual Sentiment Analysis of Tweets</li></h3>
-  Implemented SentiCircle approach for capturing contextual semantics along with a novel aggregation technique to predict sentiment orientation of tweets. Carried     out a comparitative analysis between different distance measures used to create SentiCirles.   
+  Implemented SentiCircle approach for capturing contextual semantics along with a novel aggregation technique to predict sentiment orientation of tweets. Carried     out a comparative analysis between different distance measures used to create SentiCirles.   
   <h3><li>Predicting Click Through Rate (CTR) of Online Advertisements</li></h3>
   Employed a soft-clustering technique for determining CTR of advertisements, thereby enhancing quality of ad recommendations and user experience. 
  </ul>
