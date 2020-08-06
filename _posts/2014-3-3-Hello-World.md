@@ -1,1 +1,2 @@
-I'm a second year Master's student in Computer Science at the Georgia Institute of Technology. I completed my Bachelors in Technolgy (B.Tech) in Electronics and Communication engineering at Delhi Technological University, India in 2019. 
+I'm a second year Master's student in Computer Science at the Georgia Institute of Technology. I completed my Bachelors in Technolgy (B.Tech) in Electronics and Communication engineering at Delhi Technological University, India in 2019. <br>
+My primary research interests lie at the intersection of computer vision and deep learning. I've been exploring my interests in 3D computer vision as well. I'm working as a collaborator in Hays lab where I'm working to make machine learning models for lane-graph inference for self-driving vehicles.
