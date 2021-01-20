@@ -1,6 +1,6 @@
 <h1>Projects</h1>
 <ul>
-  <h3><li>Facebook Habitat AI challenge</li></h3>
+  <h3><li><a href="{{ site.baseurl }}/pdfs/PointgoalNavigation.pdf">Facebook Habitat AI challenge</a></li></h3>
   Implemented imitation learning algorithm namely behavioral cloning for point goal navigation task in a photo-realistic, indoor environment without GPS and compass   information. Developed a benchmark based on RNN for preserving the temporal information of trajectories and predicting optimal actions given the state of an         embodied agent with nearly 60% accuracy. Compared performance with a reinforcement learning baseline (Proximal Policy Optimization).
   <h3><li>Visual Question Answering</li></h3>
   Researched and designed VQA models that leverages both visual and textual cues to answer questions about an image. Developed and tested models for questions with   binary, numeric and multiple-choice answers. Used a novel fusion strategy along with parallel and alternate co-attention models on the VQA 2.0 dataset.
