@@ -8,7 +8,8 @@ author_profile: true
 <ol>
 {% for pub in site.publications reversed %}
   <li>
-    {{ pub.title }} [<a href="{{ pub.paperurl }}" target="_blank" rel="noopener">Paper Link</a>]<br>
+    {{ pub.title }}
+    [<a href="{{ pub.paperurl }}" target="_blank" rel="noopener">Paper Link</a>]{% if pub.workshopurl %}[<a href="{{ pub.workshopurl }}" target="_blank" rel="noopener">Workshop Link</a>]{% endif %}<br>
     <strong>{{ pub.venue }}</strong>
   </li>
 {% endfor %}
