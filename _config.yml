@@ -25,17 +25,17 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Shubhangi Upasani"
-  pronouns         : # example: "she/her"  
-  bio              : "Computer Vision & Machine Learning"
-  location         : "Atlanta, Georgia"
-  employer         : # add your current employer once you have one to list
+  pronouns         : "she/her"  
+  bio              : "LLMs Post Training, Inference and Agentic AI"
+  location         : "Sunnyvale, California"
+  employer         : "Sambanova Systems"
   uri              : # URL
-  email            : "shubhangi.upasani@gmail.com" 
+  email            : #"shubhangi.upasani@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # add your Google Scholar profile URL
+  googlescholar    : https://scholar.google.com/citations?user=_OjBraYAAAAJ&hl=en
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # add your ORCID URL if you have one
@@ -64,7 +64,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "shubhangi.upasani"
+  instagram        : #"shubhangi.upasani"
   lastfm           : # Username
   linkedin         : "shubhangiupasani"
   mastodon         : # URL
