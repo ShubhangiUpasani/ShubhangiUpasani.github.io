@@ -8,9 +8,9 @@ author_profile: true
 <ul>
 {% for talk in site.talks reversed %}
   <li>
-    [{{ talk.date | date: "%b %Y" }}] {{ talk.title }}
+    <strong>[{{ talk.date | date: "%b %Y" }}] {{ talk.title }}</strong><br>
     {% if talk.links %}
-      {% for link in talk.links %}<br><a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>{% endfor %}
+      {% for link in talk.links %}<a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>{% unless forloop.last %} &middot; {% endunless %}{% endfor %}
     {% endif %}
   </li>
 {% endfor %}
