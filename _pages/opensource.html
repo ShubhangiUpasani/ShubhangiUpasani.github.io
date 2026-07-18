@@ -5,8 +5,13 @@ permalink: /opensource/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.opensource reversed %}
-  {% include archive-single.html %}
+<ul>
+{% for item in site.opensource reversed %}
+  <li>
+    <strong>{{ item.title }}</strong>{% if item.stats %} <span style="color:#767676; font-size:0.9em;">— {{ item.stats }}</span>{% endif %}<br>
+    {% if item.links %}
+      {% for link in item.links %}<a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>{% unless forloop.last %} &middot; {% endunless %}{% endfor %}
+    {% endif %}
+  </li>
 {% endfor %}
+</ul>

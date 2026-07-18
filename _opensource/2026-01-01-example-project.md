@@ -1,11 +1,12 @@
 ---
-title: "[Project Name] — one-line description"
+title: "Agentic Context Engineering - Official code release"
 collection: opensource
-permalink: /opensource/2026-01-01-example-project
-excerpt: 'Role: creator/maintainer/contributor. What it does and who uses it.'
+permalink: /opensource/2026-ace
 date: 2026-01-01
-venue: 'GitHub / PyPI / Hugging Face'
-paperurl: 'https://github.com/ShubhangiUpasani/'
-citation: '1.2k stars, 14k downloads — update as it grows.'
+stats: "1.2k stars"
+links:
+  - label: "GitHub"
+    url: "https://github.com/ace-agent/ace"
+  - label: "Website"
+    url: "https://ace-agent.github.io/"
 ---
-Duplicate this file per project you maintain.
