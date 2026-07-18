@@ -1,12 +1,15 @@
 ---
 layout: archive
-title: "Peer Review & Service"
+title: "Academic Service"
 permalink: /academic-service/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.academicservice reversed %}
-  {% include archive-single.html %}
+<h3>Program Committee / Reviewer</h3>
+<ul>
+{% for item in site.academicservice reversed %}
+  <li>
+    {% if item.link %}<a href="{{ item.link }}" target="_blank" rel="noopener">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}
+  </li>
 {% endfor %}
+</ul>
