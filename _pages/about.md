@@ -7,12 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year master's student in Computer Science at the Georgia Institute of Technology. I completed my Bachelors in Technology (B.Tech) in Electronics and Communication engineering at Delhi Technological University, India in 2019.
+I'm a Principal Machine Learning Engineer at SambaNova Systems, where I build large language model systems that bridge research and production. Over the past five years, my work has spanned LLM post-training, long-context inference, and agentic AI, with a focus on turning cutting-edge ideas into systems that deliver measurable impact at scale.
 
-My research interests lie at the intersection of computer vision and deep learning. I'm keen to explore different problem spaces in vision and employ deep learning models to find creative solutions to them. I've been exploring my interests in 3D computer vision as well. I'm working as a research collaborator in Hays lab, Georgia Tech where I'm studying machine learning models to facilitate lane-graph inference by self-driving vehicles. It's my long-term objective to utilize the expertise I gain from my research endeavors for making AI-powered embodied agents that are equipped to perceive and respond to their environments and perform lifesaving tasks.
+My research has translated directly into production. Techniques I've developed for long-context inference power capabilities on SambaNova Cloud, serving real-world workloads while advancing the state of efficient LLM deployment. I've also authored research published at venues including ICLR, ISC, and ICDMAI, and regularly serve as a reviewer for leading machine learning conferences. Before joining SambaNova, I interned as a Software Development Engineer at Amazon and Western Digital, experiences that laid the foundation for my work at the intersection of machine learning, systems, and software engineering.
 
-Apart from this, I've also had the fortune of interning at companies like Amazon, Western Digital (SanDisk) and Andritz Hydro which have given me a well-rounded understanding of software engineering. I particularly enjoy backend development through various cloud services and I'm always looking for avenues to satiate my hunger for the same.
+I hold an M.S. in Computer Science with a specialization in Machine Learning from Georgia Tech and a B.Tech in Electronics and Communication Engineering from Delhi Technological University.
 
-<!-- TODO: update this bio to reflect your current role, and once your
-Publications/Patents sections have real entries, consider adding a short
-paragraph summarizing that record here, the way Urmish does. -->
+I'm particularly interested in advancing frontier language models through post-training and in understanding how they behave once deployed through inference research. I enjoy tackling open-ended problems where there are no established answers and where success depends on combining rigorous experimentation with practical engineering. My best work happens at the intersection of research and production, where ideas are expected to stand up not only in publications but also under real-world traffic.
