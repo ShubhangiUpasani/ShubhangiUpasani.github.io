@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+.page__content p { text-align: justify; }
+</style>
 
 I'm a Principal Machine Learning Engineer at SambaNova Systems, where I build large language model systems that bridge research and production. Over the past five years, my work has spanned LLM post-training, long-context inference, and agentic AI, with a focus on turning cutting-edge ideas into systems that deliver measurable impact at scale.
 
