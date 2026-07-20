@@ -1,10 +1,10 @@
 ---
-title: "Principal Machine Learning Engineer, Large Language Models"
+title: "Machine Learning Engineer, Multimodal AI"
 collection: experience
-permalink: /experience/2024-09-principal-ml-engineer
+permalink: /experience/2021-07-ml-engineer-multimodal
 venue: "SambaNova Systems"
-daterange: "Dec 2024 – Present"
-date: 2025-01-01
+daterange: "Jul 2021 – Aug 2024"
+date: 2021-07-01
 ---
-* Research and production deployment of LLM inference optimization techniques, including KV cache optimization, speculative prefill and decoding, prompt compression, test-time adaptation, and latency optimization (TTFT/TPOT).
-* Developed agentic AI systems for enterprise applications, spanning context engineering, memory architectures, agent frameworks, and enterprise onboarding, in collaboration with Stanford University.
+* Led the bring-up and deployment of vision-language models on SambaNova Cloud and SambaStudio.
+* Developed post-training pipelines and optimization techniques for multimodal foundation models, enabling production-ready vision-language AI systems.
