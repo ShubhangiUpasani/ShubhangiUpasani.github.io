@@ -5,8 +5,11 @@ permalink: /experience/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.experience reversed %}
-  {% include archive-single.html %}
+<div>
+{% for item in site.experience reversed %}
+  <div style="margin-bottom: 2em;">
+    <strong>{{ item.title }}, {{ item.venue }} ({{ item.daterange }})</strong>
+    {{ item.content }}
+  </div>
 {% endfor %}
+</div>
